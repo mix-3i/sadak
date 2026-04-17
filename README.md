@@ -32,3 +32,5 @@
 * لغة python
 * النماذج اللغوية (LLM) لتحليل البيانات وإنشاء التقارير
 * لعرض النموذج الاولي Gradio
+# رابط الواجهات 
+https://www.figma.com/make/bUHh7nwRn2iSujlXrVSIsC/Untitled?fullscreen=1&t=4kPlvQLfgfED9Ort-1&preview-route=%2Fvoice-recording
